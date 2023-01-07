@@ -1,7 +1,9 @@
 # Простая страница портфолио
 
+Описание: Сверстано для фиксированной ширины - 980px. Без адаптива.
+
 ## макет: 
-https://www.figma.com/file/1sfWWxXZLuXeAobUFwUA84/Portfolio?node-id=1%3A121
+figma: https://www.figma.com/file/1sfWWxXZLuXeAobUFwUA84/Portfolio?node-id=1%3A121
 
 ## технологии
 Начинал оформлять по БЭМ. Так как страница небольшая, после блока интро, 
