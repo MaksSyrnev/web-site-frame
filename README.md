@@ -1,7 +1,7 @@
 # maked_sites: верстка сайтов
 
-# premium-car-main-page
-**главная страница сайта про автомобили**
+## 1. premium-car-main-page
+главная страница сайта про автомобили
 
-# portfolio-page
-**
+## 2. portfolio-page
+простая страница для портфолио
