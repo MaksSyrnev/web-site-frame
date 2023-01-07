@@ -8,4 +8,4 @@
 - наименование и структура файлов - BEM nested.
 
 # демо
-Посмотреть https://makssyrnev.github.io/PremiumCarMainPage/
+Посмотреть PIW
