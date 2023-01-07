@@ -1,0 +1,47 @@
+.end-row_mini {
+  width: 270px;
+  margin: 0 auto;
+  padding: 30px 0;
+  font-size: 18px;
+  line-height: 22px;
+  color: #070707;
+}
+
+.footer_subtitle {
+  font-size: 14px;
+  line-height: 16px;
+  color: #828282;
+}
+
+.btn {
+  display: block;
+  font-size: 18px;
+  line-height: 23px;
+  color: #FFFFFF;
+  background-color: #070707;
+  height: 42px;
+  width: 180px;
+  border-radius: 40px;
+  border: 0;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+.list_sn {
+  width: 342px;
+  list-style: none;
+  margin: 85px auto;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.sprt {
+  height: 40px;
+  border: 1px solid black;
+
+}
+
+.icon_link {
+  color: transparent;
+}

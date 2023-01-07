@@ -1,0 +1,11 @@
+.sidebar-section__button {
+  width: 100%;
+  height: 50px;
+  color: #fff;
+  background-color: #232323;
+  border-radius: 5px;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  border: none;
+}

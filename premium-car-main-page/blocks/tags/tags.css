@@ -1,0 +1,7 @@
+@import url(./__button/tags__button.css);
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  width: 270px;
+}

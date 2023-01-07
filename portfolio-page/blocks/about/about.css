@@ -1,0 +1,28 @@
+.about {
+  background-color: #f6f6f6;
+  padding: 110px 0;
+  text-align: center;
+}
+
+.text-card {
+  max-width: 490px;
+  margin: 0 auto;
+  padding: 10px 0;
+}
+
+.end-row {
+  display: block;
+  margin: 0 auto 40px;
+}
+
+.end-row_medium {
+  display: block;
+  margin: 0 auto 40px;
+  width: 450px;
+}
+
+.end-row_short {
+  width: 350px;
+  display: block;
+  margin: 0 auto;
+}

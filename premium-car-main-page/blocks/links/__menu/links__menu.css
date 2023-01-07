@@ -1,0 +1,8 @@
+.links__menu {
+  transition: .8s;
+}
+
+.links__menu:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

@@ -1,0 +1,11 @@
+@import url(./__img/logo__img.css);
+.logo {
+  display: flex;
+  align-items: center;
+  transition: .8s;
+}
+
+.logo:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

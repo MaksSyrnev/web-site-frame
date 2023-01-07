@@ -1,0 +1,6 @@
+.bottom__page {
+  max-width: 1170px;
+  display: flex;
+  margin: 0 auto;
+  padding: 60px 0 50px;
+}

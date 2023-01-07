@@ -1,0 +1,16 @@
+.button {
+  border: 0;
+  width: 62px;
+  height: 22px;
+  border-radius: 3px;
+  background-color: #4a90e2;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 400;
+  text-align: center;
+}

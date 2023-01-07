@@ -1,0 +1,15 @@
+@import url(./__image/post__img.css);
+@import url(./__description/post__description.css);
+@import url(./__title/post__title.css);
+@import url(./__subtitle/post__subtitle.css);
+@import url(./__text/post__text.css);
+
+.post {
+  position: relative;
+  margin: 0 auto;
+  padding: 0 0 174px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 0;
+}

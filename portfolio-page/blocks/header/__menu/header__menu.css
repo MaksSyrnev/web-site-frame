@@ -1,0 +1,5 @@
+.header__menu {
+    height: 90px;
+    box-sizing: border-box;
+    border-bottom: solid 1px #828282;
+}

@@ -1,0 +1,8 @@
+.bottom__colomn {
+  width: 270px;
+  margin: 0 129px 0 0;
+}
+
+.bottom__colomn:last-of-type {
+  margin: 0;
+}

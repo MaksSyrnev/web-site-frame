@@ -1,0 +1,17 @@
+.bottom__button {
+  margin: 0;
+  padding: 0;
+  width: 34px;
+  height: 34px;
+  background-color: #373737;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.8s;
+}
+
+.bottom__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

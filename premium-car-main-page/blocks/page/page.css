@@ -1,0 +1,12 @@
+@import url(./__conteiner/page__conteiner.css);
+
+.page {
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+  font-family: 'PT Sans', 'Arial', serif;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+

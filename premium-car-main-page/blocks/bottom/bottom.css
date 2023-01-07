@@ -1,0 +1,18 @@
+@import url(./__page/bottom__page.css);
+@import url(./__colomn/bottom__colomn.css);
+@import url(./__colomn/_wide/bottom__colomn_wide.css);
+@import url(./__colomn-text/bottom__colomn-text.css);
+@import url(./__colomn-title/bottom__colomn-title.css);
+@import url(./__buttons-list/bottom__buttons-list.css);
+@import url(./__button/bottom__button.css);
+@import url(./__card/bottom__card.css);
+@import url(./__img-card/bottom__img-card.css);
+@import url(./__title-card/bottom__title-card.css);
+@import url(./__subtitle-card/bottom__subtitle-card.css);
+@import url(./__card-text-block/bottom__card-text-block.css);
+
+.bottom {
+  margin: 0;
+  padding: 0;
+  background-color: #171717;
+}

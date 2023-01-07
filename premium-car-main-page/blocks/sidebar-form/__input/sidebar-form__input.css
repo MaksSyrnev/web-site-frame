@@ -1,0 +1,14 @@
+.sidebar-form__input {
+  height: 50px;
+  width: 270px;
+  margin: 0 0 10px;
+  background: #FFFFFF;
+  border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #aeb3bb;
+  padding-left: 15px;
+}

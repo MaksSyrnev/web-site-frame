@@ -1,0 +1,7 @@
+@import url(./__text/sidebar-form__text.css);
+@import url(./__input/sidebar-form__input.css);
+@import url(./__input/_dark/sidebar-form__input_dark.css);
+
+.sidebar-form {
+  width: 270px;
+}

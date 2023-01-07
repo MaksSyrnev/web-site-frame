@@ -1,0 +1,12 @@
+@import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./__buttons/intro__buttons.css);
+
+.intro {
+  position: relative;
+  margin: auto 0;
+  padding: 40px 0;
+  justify-content: space-between;
+  box-sizing: border-box;
+  height: 190px;
+}

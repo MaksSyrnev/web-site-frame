@@ -1,0 +1,12 @@
+@import url(./__cards/popular__cards.css);
+@import url(./__title/popular__title.css);
+@import url(./__element/popular__element.css);
+@import url(./__img/popular__img.css);
+
+.popular {
+  margin: 0 auto;
+  padding: 30px 0 65px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

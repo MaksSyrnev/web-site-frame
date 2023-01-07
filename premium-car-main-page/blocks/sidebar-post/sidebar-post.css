@@ -1,0 +1,5 @@
+@import url(./_nofirst/sidebar-post_nofirst.css);
+
+.sidebar-post {
+  position: relative;
+}

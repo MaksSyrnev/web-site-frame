@@ -1,0 +1,11 @@
+.sidebar-form__input_dark {
+  background: #373737;
+  border: none;
+  box-sizing: border-box;
+  border-radius: 3px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #aeb3bb;
+  padding-left: 15px;
+}

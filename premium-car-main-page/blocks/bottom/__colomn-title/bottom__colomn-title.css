@@ -1,0 +1,17 @@
+.bottom__colomn-title {
+  margin: 0 0 23px;
+  padding: 0;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 26px;
+  color: #ffffff;
+}
+
+.bottom__colomn-title_middle {
+  margin: 0 0 28px;
+}
+
+.bottom__colomn-title_last {
+  margin: 0 0 38px;
+}

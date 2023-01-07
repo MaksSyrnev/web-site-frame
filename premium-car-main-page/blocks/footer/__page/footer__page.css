@@ -1,0 +1,9 @@
+.footer__page {
+  max-width: 1170px;
+  height: 95px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+}

@@ -1,0 +1,8 @@
+.header__menu-button_active {
+  color: #070707;
+}
+
+.header__menu-button_active:hover {
+  cursor: text;
+}
+  

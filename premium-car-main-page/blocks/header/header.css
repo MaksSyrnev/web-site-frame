@@ -1,0 +1,11 @@
+@import url(./__navigation/header__navigation.css);
+
+.header {
+  width: 100%;
+  min-height: 90px;
+  background-color: black;
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+
+}

@@ -1,0 +1,11 @@
+@import url(./__button/pages-list__button.css);
+@import url(./__button/_active/pages-list__button_active.css);
+
+.pages-list {
+  margin: 0;
+  padding: 17px 0 50px;
+  /* width: 340px; */
+  display: flex;
+  gap: 10px;
+  /* justify-content: space-between; */
+}

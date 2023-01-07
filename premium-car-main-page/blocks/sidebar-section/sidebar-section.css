@@ -1,0 +1,14 @@
+@import url(./__button/sidebar-section__button.css);
+@import url(./__title/sidebar-section__title.css);
+@import url(./__subtitle/sidebar-section__subtitle.css);
+@import url(./__text/sidebar-section__text.css);
+@import url(./__button-img/sidebar-section__button-img.css);
+@import url(./__title/_inside-card/sidebar-section__title_inside-card.css);
+@import url(./__card-title/sidebar-section__card-title.css);
+
+
+.sidebar-section {
+  margin: 0 auto 60px;
+  padding: 0;
+  font-size: 0;
+}

@@ -1,0 +1,10 @@
+.header__menu-list {
+  list-style: none;
+  height: 90px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  font-family: Gilroy-Bold;
+}

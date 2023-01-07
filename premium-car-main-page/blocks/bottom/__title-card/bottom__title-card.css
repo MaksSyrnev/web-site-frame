@@ -1,0 +1,11 @@
+.bottom__title-card {
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 26px;
+  color: #ffffff;
+  height: 50px;
+  margin: 0 0 13px 0;
+  padding: 0;
+  overflow: hidden;
+}

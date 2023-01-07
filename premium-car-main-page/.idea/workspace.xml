@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d2b6156-7ae6-4764-88fb-22f7c4f1b5c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/sidebar-section/__button-img/sidebar-section__button-img.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/sidebar-section/__subtitle/sidebar-section__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/sidebar-section/__subtitle/sidebar-section__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/sidebar-section/sidebar-section.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/sidebar-section/sidebar-section.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hJkRvc6iEYAr2GXflyzLfDG3dX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyFolder\Practicum\Front\second_project\blocks\page" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d2b6156-7ae6-4764-88fb-22f7c4f1b5c0" name="Default Changelist" comment="" />
+      <created>1599736578457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599736578457</updated>
+      <workItem from="1599736579752" duration="188000" />
+      <workItem from="1599888019516" duration="128000" />
+      <workItem from="1600253447988" duration="2129000" />
+      <workItem from="1600428123498" duration="4180000" />
+      <workItem from="1601616632487" duration="2492000" />
+      <workItem from="1601625222541" duration="2426000" />
+      <workItem from="1602900919000" duration="1069000" />
+      <workItem from="1602911255984" duration="7166000" />
+      <workItem from="1602988666837" duration="8372000" />
+      <workItem from="1605934253640" duration="1381000" />
+      <workItem from="1605937770370" duration="1042000" />
+      <workItem from="1606905907200" duration="50000" />
+      <workItem from="1607002067746" duration="1311000" />
+      <workItem from="1607088695229" duration="342000" />
+      <workItem from="1608384625256" duration="910000" />
+      <workItem from="1608423674764" duration="20434000" />
+      <workItem from="1611372864000" duration="1303000" />
+      <workItem from="1612101386015" duration="14000" />
+      <workItem from="1618641724924" duration="3061000" />
+      <workItem from="1618911322526" duration="1848000" />
+      <workItem from="1618916544338" duration="1616000" />
+    </task>
+    <task id="LOCAL-00001" summary="section posts">
+      <created>1618911767017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618911767017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="section posts">
+      <created>1618911785349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618911785349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="section posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="section posts" />
+  </component>
+</project>

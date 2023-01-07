@@ -1,0 +1,9 @@
+@import url(./__list/cards__list.css);
+@import url(./__element/cards__element.css);
+@import url(./__element/_head/cards__element_head.css);
+
+.cards {
+  margin: 0 auto;
+  padding: 30px 0;
+
+}

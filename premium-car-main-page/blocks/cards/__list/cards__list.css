@@ -1,0 +1,13 @@
+.cards__list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 370px 370px 370px;
+  grid-template-rows: 265px 265px;
+  gap: 30px;
+  list-style-type: none;
+  max-width: 1170px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}

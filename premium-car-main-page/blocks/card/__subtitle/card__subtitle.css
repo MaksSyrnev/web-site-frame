@@ -1,0 +1,9 @@
+.card__subtitle {
+  margin: 50px 20px 5px;
+  padding: 0px;
+  color: #ffffff;
+  font-family: inherit;
+  font-size: 14px;
+  line-height: 18px;
+  font-weight: 400;
+}
