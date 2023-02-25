@@ -7,8 +7,10 @@ figma: https://www.figma.com/file/1sfWWxXZLuXeAobUFwUA84/Portfolio?node-id=1%3A1
 
 ### технологии : 
 ```HTML + CSS```
+
 Для блока Интро стили по БЭМ. 
 После уже не придерживался БЭМ нейминга.
+
 Свалил в кучу не разбивая по блокам - conent.css и footer.css. 
 !Местами использовал селекторы по тегам.
 
