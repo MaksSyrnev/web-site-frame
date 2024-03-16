@@ -7,7 +7,7 @@ Figma: https://www.figma.com/file/zpEryUaC1ranXzf9jAsK2c/Premium-Car-Blog-Templa
 
 ## Технологии
 - HTML5, CSS3 
-- наименование и структура файлов - BEM nested.
+- структура файлов - BEM nested.
 
 ## демо
 Посмотреть PIW
